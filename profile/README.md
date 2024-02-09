@@ -1,4 +1,6 @@
 # 🍄 Mycel 🍄
 
-Mycel is the first Blockchain Domain Infrastructure Layer 1 Protocol with the mission to create an interoperable ecosystem within the name service sector.  We are a scaling layer built to compliment existing names service projects by bringing utility, aggregation, and  multichain interoperability capabilities.  
-Our mission is simple: Simplifying Blockchain to the Roots
+Mycel is an **intent-centric interface** to solve complexity in multi-chain and bring bilion users for Web3 by eliminating the need for them to understand complex blockchain concepts like gas fees and transactions.
+
+By adopting Mycel's intent-centric interface, protocols like Restaking Protocols and Decentralized Exchanges (DEX) can provide a user-friendly experience, where actions are reduced to simple intents that hide the complex details of blockchain operations.
+This approach enables a broader range of applications to become more user-friendly, inviting a vast new audience to explore.
